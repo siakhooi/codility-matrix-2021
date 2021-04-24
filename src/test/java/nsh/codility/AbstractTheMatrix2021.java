@@ -30,4 +30,19 @@ public abstract class AbstractTheMatrix2021 {
         assertEquals(a, getObject().solution(A));
     }
 
+    @Test
+    void test4() {
+        int[] A = new int[] { 3, 1, 3, 5, 4, 2 };
+        int a = 3;
+
+        assertEquals(a, getObject().solution(A));
+    }
+    @Test
+    void test5() {
+        int[] A = new int[] { 3,1,4,3,5,4,2,3 };
+        int a = 3;
+
+        assertEquals(a, getObject().solution(A));
+    }
+   
 }

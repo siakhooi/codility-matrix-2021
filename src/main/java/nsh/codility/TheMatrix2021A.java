@@ -1,6 +1,6 @@
 package nsh.codility;
 
-public class TheMatrix2021A implements TheMatrix2021Interface{
+public class TheMatrix2021A implements TheMatrix2021Interface {
 	public int solution(int[] A) {
 		int S[] = new int[A.length];
 		int Q[] = new int[A.length];
