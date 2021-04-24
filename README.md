@@ -2,6 +2,7 @@
 
 ## MaxSquareOnMatrix
 
+- Difficulty: Medium
 - Find the side length of the biggest black square in a matrix. In each column, black cells start at the bottom of the matrix and count up.
 - [https://app.codility.com/programmers/challenges/matrix2021/](https://app.codility.com/programmers/challenges/matrix2021/)
 
