@@ -2,7 +2,7 @@ package nsh.codility;
 
 import java.util.Stack;
 
-public class TheMatrix2021A2 implements TheMatrix2021Interface {
+public class TheMatrix2021B2 implements TheMatrix2021Interface {
 	class Square {
 		int height, width;
 

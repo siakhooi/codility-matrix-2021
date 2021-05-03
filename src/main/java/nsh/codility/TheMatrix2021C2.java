@@ -25,6 +25,5 @@ public class TheMatrix2021C2 implements TheMatrix2021Interface {
                 ub = mid - 1;
         }
         return lb;
-
     }
 }
